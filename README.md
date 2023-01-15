@@ -6,7 +6,7 @@ A simple web-based app built with Streamlit, youtube_dl and Pillow, that allows 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/youtube-downloader.git
+git clone https://github.com/jinef-john/youtube-downloader.git
 ```
 2. Install the dependencies
 ```bash
